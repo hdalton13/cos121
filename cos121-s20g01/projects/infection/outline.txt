@@ -1,0 +1,24 @@
+Plans and Ideas for Infection
+
+-Priest is our new class
+
+-Methods
+  -Resurrect
+  -Heal
+  -Bless
+
+-MAX_TIME = 1 real-life minute
+
+-Explanation screen:
+  -Priest class
+
+  -When people are blessed, they turn yellow; when blessing runs out, turn back to green
+
+
+-WOW! Possibilities
+  -Graveyard! When people die, they go to the graveyard. Their color goes grey and they are marked by an x
+    -Depending on how many people die, spells out a riddle when simulation ends
+      -Difficulty with length/amount of characters for words
+  -Make Priest resurrection cooler
+
+
